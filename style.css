@@ -81,7 +81,7 @@ body {
     padding: 5px 10px;
     margin-right: 10px;
     text-decoration: none;
-    color: black;
+    color: solid black;
     cursor: grab;
 } 
 .menu :hover{
