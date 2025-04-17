@@ -111,6 +111,7 @@ body {
 }
 
 .buttons{
+    all: unset;
     height: auto;
     display: flex;
     flex-direction: row;
