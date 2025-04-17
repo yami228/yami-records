@@ -83,6 +83,7 @@ body {
     text-decoration: none;
     color: solid black;
     cursor: grab;
+    font-family: "myfont";
 } 
 .menu :hover{
     background-color: rgb(179, 97, 187);
@@ -116,6 +117,7 @@ body {
     justify-content: space-evenly;
     gap: 20px;
     box-sizing: border-box
+    font-family: "myfont";
 }
 
 .buton:hover{
@@ -506,6 +508,7 @@ p img{
     font-size: 16px;
     border: 0px;
     text-align: center;
+    font-family: "myfont";
 }
 
 .col{
