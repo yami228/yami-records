@@ -128,7 +128,6 @@ body {
     height: 50px ;
     border-radius: 15px;
     border-width: 3px;
-    font-family: Comic Sans MS;
     cursor: grab;
 
 }
@@ -638,7 +637,6 @@ p img{
     height: 50px ;
     border-radius: 15px;
     border-width: 3px;
-    font-family: Comic Sans MS;
     cursor: grab;
     padding: 10px 20px;
     transition: background-color 0.3s;
