@@ -84,7 +84,6 @@ body {
     text-decoration: none;
     color: solid black;
     cursor: grab;
-    font-family: "myfont";
 } 
 .menu :hover{
     background-color: rgb(179, 97, 187);
