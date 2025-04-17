@@ -4,6 +4,7 @@
          url('./fonts/ComicSansMS.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+    color: black;
   }
 
 body {
